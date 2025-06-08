@@ -59,11 +59,7 @@ pip install pyvjoy pynput
 
 ---
 
-## 📸 Capture d'écran
-
-![Aperçu ETS2](img/apercu-ets2.png)
-
----
+//## 📸 Capture d'écran ![Aperçu ETS2](img/apercu-ets2.png)--
 
 ## 🧑‍💻 Auteur
 
